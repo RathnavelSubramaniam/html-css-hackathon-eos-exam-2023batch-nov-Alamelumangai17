@@ -1,0 +1,47 @@
+h1{
+    border:3px solid grey;
+    background-color: rgb(132, 198, 246);
+    text-align: center;
+}
+#native{
+ column-count: 2;
+    
+}
+
+#link1{
+    border: 1px solid black;
+    background-color: rgb(58, 165, 42) ;
+    width:200px;
+    text-align: center;
+    margin-left: 650px;
+}
+
+#link2{
+    border: 1px solid black;
+    background-color: rgb(58, 165, 42) ;
+    width:200px;
+    margin-left: 650px;
+    
+}
+#link3{
+    border: 1px solid black;
+    background-color: rgb(58, 165, 42) ;
+    width:200px;
+    text-align: center;
+    margin-left: 650px;
+}
+#link4{
+    border: 1px solid black;
+    background-color: rgb(58, 165, 42) ;
+    width:200px;
+    text-align: center;
+    margin-left: 650px;
+}
+h2{
+    text-align: center;
+}
+#audio{
+    padding: 20px;
+    margin-left: 600px;
+    color: rgba(28, 232, 225, 0.1);
+}

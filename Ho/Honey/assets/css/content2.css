@@ -1,0 +1,33 @@
+.Hon1{
+    column-gap: 50px;
+    column-count: 2 ;
+    background-color:rgb(201, 157, 243);
+   
+}
+h1{
+    text-align: center;
+    background-color: rgb(180, 174, 174);
+    border: 2px solid rgb(255, 111, 0);
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    padding: 10px;
+    text-shadow: 0cqmin;
+    width: 600px;
+    margin: 10%;
+    
+}
+#pdf{
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    background-color: rgb(201, 157, 243);
+    border: 10px solid rgb(208, 27, 27) ;
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 500px;
+}
+video{
+    margin-left: 350px;
+}
+.fw-bolder{
+     background-image: linear-gradient(to right, rgb(207, 167, 167),orange,yellow,green,rgb(18, 18, 243),indigo,violet);;
+color:black;
+    }
